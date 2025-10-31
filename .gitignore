@@ -1,0 +1,21 @@
+# Archivos de la máquina virtual Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Directorios de compilación/salida
+/bin/
+/out/
+/target/
+/build/
+
+# Archivos de IDE (ejemplos)
+.idea/
+.project
+.classpath
+.settings/
+*.iml
+
+# Logs
+*.log
